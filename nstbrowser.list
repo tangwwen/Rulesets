@@ -1,4 +1,3 @@
-[Rule]
-PROCESS-NAME,nstchrome Helper,🛫住宅ip
-PROCESS-NAME,Nstbrowser Helper,🛫住宅ip
-PROCESS-NAME,agent,🛫住宅ip
+PROCESS-NAME,nstchrome Helper
+PROCESS-NAME,Nstbrowser Helper
+PROCESS-NAME,agent
